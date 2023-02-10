@@ -1,7 +1,7 @@
 
 
 <div display="flex">
-  <div>
+  <div display="flex">
     <h3 align="center">
       Heya 👋 My name is Yeshi. Welcome to my GitHub!
     </h3>
@@ -10,7 +10,7 @@
       <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=FullStack+Software+Engineer" alt="Typing SVG" /></a>
     <p> 
   </div>
-  <div>
+  <div display="flex">
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=FullStack+Software+Engineer" alt="Typing SVG" /></a>
   </div>
 </div>
@@ -50,20 +50,7 @@
 <a href="https://github.com/akyoshicode" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://www.linkedin.com/in/akyeshi/" target="_blank">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a> <a href="https://angel.co/u/akyeshi" target="_blank">![AngelList](https://img.shields.io/badge/wellfound-%ccc.svg?&style=for-the-badge&logo=medium&logoColor=white)</a> <a href="mailto:techstyle99@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
   </a>
-<!--
 
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
 
 <!--
