@@ -6,9 +6,9 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=FullStack+Software+Engineer" alt="Typing SVG" /></a>
 <p>
  
-<!-- <div align='center'>
- <image src="https://media.istockphoto.com/id/1224500457/photo/programming-code-abstract-technology-background-of-software-developer-and-computer-script.jpg?s=612x612&w=0&k=20&c=nHMypkMTU1HUUW85Zt0Ff7MDbq17n0eVeXaoM9Knt4Q=" width="340" height="auto" >
-</div> -->
+<div align='center'>
+ <image src="https://media4.giphy.com/media/lXHwJv89PvdN200Anr/giphy.gif?cid=ecf05e472xxm5vlrufxk5phe9ju7996o2idduhg8irgxue27&rid=giphy.gif&ct=g" width="340" height="auto" >
+</div>
   
   
 ## My Projects:
