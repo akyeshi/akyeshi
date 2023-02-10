@@ -7,7 +7,7 @@
 <p>
  
 <div align='center'>
- <image src="https://media4.giphy.com/media/lXHwJv89PvdN200Anr/giphy.gif?cid=ecf05e472xxm5vlrufxk5phe9ju7996o2idduhg8irgxue27&rid=giphy.gif&ct=g" width="340" height="auto" >
+ <image src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/200.webp?cid=ecf05e47wonwgsmqiy2ve4y814chfkuhhls0f04mj010zrvv&rid=200.webp&ct=g" width="340" height="auto" >
 </div>
   
   
