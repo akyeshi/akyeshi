@@ -1,6 +1,6 @@
 
 
-<h3 align="center">
+<h3 align="center" color="red">
   Heya 👋 My name is Yeshi. Welcome to my GitHub!
 </h3>
 
