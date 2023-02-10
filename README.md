@@ -13,7 +13,7 @@
   
 ## My Projects:
 * [Norbu - Etsy clone](https://norbu.onrender.com)
-* [Spoti8 - Spotify clone](https://spotify8-clone-941w.onrender.com/) 
+* [Spoti8 - Spotify clone](https://spoti8-39wb.onrender.com/) 
 * [Yonder - Airbnb clone](https://yonder.onrender.com)
      
 ## Languages & Tools
