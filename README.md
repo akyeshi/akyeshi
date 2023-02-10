@@ -1,13 +1,13 @@
 
 
-<div display="flex" flexDirection="row">
+<div>
   <div>
     <h3 align="center">
       Heya 👋 My name is Yeshi. Welcome to my GitHub!
     </h3>
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=FullStack+Software+Engineer" alt="Typing SVG" /></a>
   </div>
-  <div>
+  <div margin-left="90px">
     <a href="https://git.io/typing-svg"><img src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/200.webp?cid=ecf05e47wonwgsmqiy2ve4y814chfkuhhls0f04mj010zrvv&rid=200.webp&ct=g" alt="Typing SVG" /></a>
   </div>
 </div>
