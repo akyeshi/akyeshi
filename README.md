@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-<img src="https://i.imgur.com/siqIdDW.gif" alt="hello-word">
+<img src="https://media2.giphy.com/media/RbDKaczqWovIugyJmW/200w.webp?cid=ecf05e47apgi1hpmt1cye409c9rf2rn0qmdt73bnv1pqe0a8&rid=200w.webp&ct=g" alt="hello-word">
 </p>
   
   
