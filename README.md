@@ -15,7 +15,8 @@
 * [Norbu - Etsy clone](https://norbu.onrender.com)
 * [Spoti8 - Spotify clone](https://spoti8-39wb.onrender.com/) 
 * [Yonder - Airbnb clone](https://yonder.onrender.com)
-[<img width="275" height="190" alt="splashpage" src="https://media1.giphy.com/media/lLwWHiClLCinYsCi9K/giphy.gif?cid=790b761129a139aba56c3e86da408b3f0f11440036f77987&rid=giphy.gif&ct=g">](https://clickr.onrender.com/) [<img width="275" height="190" alt="splashpage" src="https://media1.giphy.com/media/oG5vcNwCGWEfeE9bFC/giphy.gif?cid=790b7611e0020a1be47b6544aab31203b3760d737fb850c2&rid=giphy.gif&ct=g">](https://disclone-irt9.onrender.com/) [<img width="275" height="190" alt="splashpage" src="https://media0.giphy.com/media/YxZRyKvY2wa1nRNVUG/giphy.gif?cid=790b761190dbb5381fb1e929cf4e2e9758cf72b3843cbdc6&rid=giphy.gif&ct=g">](https://mybnb-project.onrender.com/)
+
+<!-- [<img width="275" height="190" alt="splashpage" src="https://media1.giphy.com/media/lLwWHiClLCinYsCi9K/giphy.gif?cid=790b761129a139aba56c3e86da408b3f0f11440036f77987&rid=giphy.gif&ct=g">](https://clickr.onrender.com/) [<img width="275" height="190" alt="splashpage" src="https://media1.giphy.com/media/oG5vcNwCGWEfeE9bFC/giphy.gif?cid=790b7611e0020a1be47b6544aab31203b3760d737fb850c2&rid=giphy.gif&ct=g">](https://disclone-irt9.onrender.com/) [<img width="275" height="190" alt="splashpage" src="https://media0.giphy.com/media/YxZRyKvY2wa1nRNVUG/giphy.gif?cid=790b761190dbb5381fb1e929cf4e2e9758cf72b3843cbdc6&rid=giphy.gif&ct=g">](https://mybnb-project.onrender.com/) -->
 
      
 ## Languages & Tools
