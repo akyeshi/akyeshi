@@ -3,6 +3,7 @@
 <h3 align="center">
   Heya 👋 My name is Yeshi. Welcome to my GitHub!
 </h3>
+![Profile views](https://gpvc.arturio.dev/akyeshi)
 
 <p align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=FullStack+Software+Engineer" alt="Typing SVG" /></a>
 </p>
