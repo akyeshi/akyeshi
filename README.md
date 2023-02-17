@@ -10,10 +10,6 @@
 <p align="center"><a href="https://git.io/typing-svg"><img src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/200.webp?cid=ecf05e47wonwgsmqiy2ve4y814chfkuhhls0f04mj010zrvv&rid=200.webp&ct=g" alt="Typing SVG" /></a>
 </p>
 
-<p align="center">
-<img src="https://media2.giphy.com/media/oMHPlvpTvnXGPS7GhX/giphy.gif?cid=ecf05e47ec8fka48yjyts5ufyl9qrjow05bjg8o276wal0bl&rid=giphy.gif&ct=g" alt="hello-word">
-</p>
-  
   
 ## My Projects:
 * [Norbu - Etsy clone](https://norbu.onrender.com)
