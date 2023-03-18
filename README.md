@@ -67,4 +67,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<p margin-left='5px'>![Profile views](https://gpvc.arturio.dev/akyeshi)</p>
+![Profile views](https://gpvc.arturio.dev/akyeshi)
