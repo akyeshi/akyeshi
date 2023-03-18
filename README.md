@@ -1,25 +1,4 @@
 
-
-<!-- <h3 align="center">
-  Heya 👋 My name is Yeshi. Welcome to my GitHub!
-</h3> -->
-
-<p align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Heya+%F0%9F%91%8B+Welcome+to+my+GitHub+Page!;FullStack+Software+Engineer" alt="Typing SVG" /></a>
-</p>
-
-<p align="center"><a href="https://git.io/typing-svg"><img src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/200.webp?cid=ecf05e47wonwgsmqiy2ve4y814chfkuhhls0f04mj010zrvv&rid=200.webp&ct=g" alt="Typing SVG" /></a>
-</p>
-
-  
-## My Projects:
-* [Norbu - Etsy clone](https://norbu.onrender.com/)
-* [Yonder - Airbnb clone](https://yonder.onrender.com/)
-* [Melody - Spotify clone](https://melody-2ymh.onrender.com/) 
-
-<!-- [<img width="275" height="190" alt="splashpage" src="https://media1.giphy.com/media/lLwWHiClLCinYsCi9K/giphy.gif?cid=790b761129a139aba56c3e86da408b3f0f11440036f77987&rid=giphy.gif&ct=g">](https://norbu.onrender.com/) [<img width="275" height="190" alt="splashpage" src="https://media1.giphy.com/media/oG5vcNwCGWEfeE9bFC/giphy.gif?cid=790b7611e0020a1be47b6544aab31203b3760d737fb850c2&rid=giphy.gif&ct=g">](https://spoti8-39wb.onrender.com/) [<img width="275" height="190" alt="splashpage" src="https://media0.giphy.com/media/YxZRyKvY2wa1nRNVUG/giphy.gif?cid=790b761190dbb5381fb1e929cf4e2e9758cf72b3843cbdc6&rid=giphy.gif&ct=g">](https://yonder.onrender.com/) -->
-
-     
-## Languages & Tools
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -44,13 +23,33 @@
 ![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
 
+<!-- 
+
+<p align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Heya+%F0%9F%91%8B+Welcome+to+my+GitHub+Page!;FullStack+Software+Engineer" alt="Typing SVG" /></a>
+</p>
+
+<p align="center"><a href="https://git.io/typing-svg"><img src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/200.webp?cid=ecf05e47wonwgsmqiy2ve4y814chfkuhhls0f04mj010zrvv&rid=200.webp&ct=g" alt="Typing SVG" /></a>
+</p>
+
+-->
+
+  
+## My Projects:
+* [Norbu - Etsy clone](https://norbu.onrender.com/)
+* [Yonder - Airbnb clone](https://yonder.onrender.com/)
+* [Melody - Spotify clone](https://melody-2ymh.onrender.com/) 
+
+<!-- [<img width="275" height="190" alt="splashpage" src="https://media1.giphy.com/media/lLwWHiClLCinYsCi9K/giphy.gif?cid=790b761129a139aba56c3e86da408b3f0f11440036f77987&rid=giphy.gif&ct=g">](https://norbu.onrender.com/) [<img width="275" height="190" alt="splashpage" src="https://media1.giphy.com/media/oG5vcNwCGWEfeE9bFC/giphy.gif?cid=790b7611e0020a1be47b6544aab31203b3760d737fb850c2&rid=giphy.gif&ct=g">](https://spoti8-39wb.onrender.com/) [<img width="275" height="190" alt="splashpage" src="https://media0.giphy.com/media/YxZRyKvY2wa1nRNVUG/giphy.gif?cid=790b761190dbb5381fb1e929cf4e2e9758cf72b3843cbdc6&rid=giphy.gif&ct=g">](https://yonder.onrender.com/) -->
+
+
+<!--
 ## Connect with me 
 <a href="https://github.com/akyoshicode" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://www.linkedin.com/in/akyeshi/" target="_blank">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a> <a href="https://angel.co/u/akyeshi" target="_blank">![AngelList](https://img.shields.io/badge/wellfound-%ccc.svg?&style=for-the-badge&logo=medium&logoColor=white)
   </a> <a href="mailto:akyeshi@outlook.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
   </a>
 [<img src='https://img.shields.io/badge/AngelList-%23D4D4D4.svg?style=for-the-badge&logo=AngelList&logoColor=black' alt='angellist' height='30'>](https://angel.co/u/akyeshi) 
-
+-->
 
 
 <!--
